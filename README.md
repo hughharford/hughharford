@@ -1,8 +1,8 @@
 ****<h1 align="left">Hi 👋, I'm Hugh </h1>
 <h3 align="left">I'm an enthusiastic Data Engineer (aiming at Machine Learning Engineer before 2025)</h3>
 
-- 🔭 I'm currently focused on [CondorGP] (https://github.com/hughharford/condorgp) - when I'm not at work, that is.
--
+- 🔭 I'm currently focused on [CondorGP](https://github.com/hughharford/condorgp) - when I'm not at work, that is.
+
 -  I’ve parked [Solar My Roof](https://github.com/hughharford/lwb_smr)
 
 - 🌱 I’m currently learning **Data Science basics (revision time after Le Wagon Data Sci bootcamp!)**
