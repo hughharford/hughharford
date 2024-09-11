@@ -1,11 +1,14 @@
 ****<h1 align="left">Hi 👋, I'm Hugh </h1>
-<h3 align="left">I'm an enthusiastic Data Engineer (aiming at Machine Learning Engineer before 2025)</h3>
+<h3 align="left">I'm was an enthusiastic Data Engineer (aiming at Machine Learning Engineer before 2025)</h3>
+<h3 align="left">NOW I want to be a software engineer - Python and soon Rust</h3>
+<h3 align="left">AND (somehow at the same time) contract as a data analyst with Zebra Healthcare</h3>
 
 - 🔭 I'm currently focused on [CondorGP](https://github.com/hughharford/condorgp) - when I'm not at work, that is.
 
 -  I’ve parked [Solar My Roof](https://github.com/hughharford/lwb_smr)
 
-- 🌱 I’m currently learning **Data Science basics (revision time after Le Wagon Data Sci bootcamp!)**
+- 🌱 I’m currently learning how hard genetic programming is on CondorGP
+- 🌱 Recently, I've been focussed on relearning **Data Science (revision after 2022 Le Wagon Data Sci bootcamp!)**
 
 - 📫 How to reach me **hugh.harford@poscoconsulting.com**
 
